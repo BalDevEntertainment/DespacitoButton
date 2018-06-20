@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "240030729792",
+    "firebase_url": "https://despacitobutton.firebaseio.com",
+    "project_id": "despacitobutton",
+    "storage_bucket": "despacitobutton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240030729792:android:3ecd11658c5d3e05",
+        "android_client_info": {
+          "package_name": "com.baldeventertainment.despacitobutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240030729792-kr7tudb7n0k62vp3aq0c3j86qi3o3r7c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "240030729792-kr7tudb7n0k62vp3aq0c3j86qi3o3r7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeIgZjpov2PIdTooktz83c-_fN4Iv-0kA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240030729792:android:32ba859c9dbd21de",
+        "android_client_info": {
+          "package_name": "com.baldeventertainment.despacitobutton.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240030729792-1dd36g8bg418vp12kafl6gq1t01bhab1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baldeventertainment.despacitobutton.debug",
+            "certificate_hash": "ca3baaa89210f78424408d204704ea42f0c19dc0"
+          }
+        },
+        {
+          "client_id": "240030729792-kr7tudb7n0k62vp3aq0c3j86qi3o3r7c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "240030729792-kr7tudb7n0k62vp3aq0c3j86qi3o3r7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeIgZjpov2PIdTooktz83c-_fN4Iv-0kA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240030729792-kr7tudb7n0k62vp3aq0c3j86qi3o3r7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
