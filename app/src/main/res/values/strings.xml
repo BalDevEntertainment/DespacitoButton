@@ -1,4 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Despacito Button</string>
     <string name="share_text">Get the Despacito Button for free now! https://play.google.com/store/apps/details?id=com.baldeventertainment.despacitobutton</string>
 </resources>

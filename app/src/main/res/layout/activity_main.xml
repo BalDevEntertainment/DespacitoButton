@@ -21,6 +21,24 @@
         android:layout_gravity="top|right"
         android:background="@drawable/share_button" />
 
+    <View
+        android:id="@+id/gap"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        app:layout_anchor="@id/share"
+        app:layout_anchorGravity="left|start|center_vertical">
+
+    </View>
+
+    <Button
+        android:id="@+id/rate"
+        android:layout_width="52dp"
+        android:layout_height="52dp"
+        android:background="@drawable/like_button"
+        app:layout_anchor="@+id/gap"
+        app:layout_anchorGravity="left|start|center_vertical"
+        android:layout_gravity="center|start"/>
+
 
     <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
         android:id="@+id/adView"
@@ -30,9 +48,10 @@
         android:layout_centerHorizontal="true"
         android:layout_gravity="bottom"
         ads:adSize="BANNER"
-        ads:adUnitId="@string/banner_id"></com.google.android.gms.ads.AdView>
+        ads:adUnitId="@string/banner_id" />
 
     <LinearLayout
+        android:id="@+id/linearLayout"
         android:layout_width="match_parent"
         android:layout_height="111dp"
         android:orientation="horizontal"
